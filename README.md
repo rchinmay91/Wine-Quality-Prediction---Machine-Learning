@@ -6,7 +6,7 @@ An end-to-end Machine Learning project that classifies wine quality based on che
 
 ## 🚀 Live Demo
 🔗 **Check out the interactive web application live on Hugging Face Spaces:** 
-      (https://rchinmay91-wine-quality-predictor.hf.space)
+      https://rchinmay91-wine-quality-predictor.hf.space
 
 ---
 
